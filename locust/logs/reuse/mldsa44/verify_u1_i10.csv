@@ -1,0 +1,2 @@
+key_size,users,iterations,verify_min,verify_avg,verify_max,verify_std
+mldsa44,1,10,0.11796600006164226,0.2366535999954067,0.3769570000713429,0.10897324809518436

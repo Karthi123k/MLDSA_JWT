@@ -1,0 +1,2 @@
+key_size,users,iterations,sign_min,sign_avg,sign_max,sign_std,token_size,signature_size
+mldsa44,1,10,0.7673780000914121,0.7673780000914121,0.7673780000914121,0,3365,2420
